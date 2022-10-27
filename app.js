@@ -1,3 +1,5 @@
+// //NUMBERS
+
 const primeiroNumero = 1;
 const segundoNumero = 2;
 
@@ -17,9 +19,11 @@ const b = 0;
 // console.log(b / a);
 // console.log(b / b);
 
+// //UNICODE
 const hiragana = '\u3041';
 // console.log(hiragana);
 
+// //STRINGS
 const portoAlegre = 'porto alegre';
 const input = 'Porto Alegre';
 const inputMinusculo = input.toLowerCase();
